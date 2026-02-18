@@ -1,6 +1,14 @@
 ## Hi, I'm Jean 👋
 📍 London
 
+# Projects
+
+- [Agentic Uncertainty](https://github.com/sevn-ai/agentic-uncertainty) - Measuring SWE agent uncertainty
+- [Sagaland](https://apps.apple.com/us/app/sagaland-interactive-fiction/id6748543926) - AI Interactive Fiction
+- [PySpur](https://github.com/PySpur-Dev/PySpur) - A visual playground for agentic workflows
+- [No Train No Gain](https://github.com/JeanKaddour/NoTrainNoGain) - Training BERT and T5 models
+
+
 <!--
 **JeanKaddour/JeanKaddour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
