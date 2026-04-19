@@ -3,6 +3,7 @@
 
 # Projects
 
+- 🎯 [Target Policy Optimization](https://github.com/JeanKaddour/tpo) - Turn GRPO into supervised learning
 - 🍜 [RamenGPT](https://github.com/JeanKaddour/ramengpt) - Training GPT with a single GPU
 - 🤖 [Agentic Uncertainty](https://github.com/sevn-ai/agentic-uncertainty) - Measuring SWE agent uncertainty
 - 📚 [Sagaland](https://apps.apple.com/us/app/sagaland-interactive-fiction/id6748543926) - AI Interactive Fiction
