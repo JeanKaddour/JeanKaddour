@@ -6,6 +6,7 @@
 - 🎯 [Target Policy Optimization](https://github.com/JeanKaddour/tpo) - Turn GRPO into supervised learning
 - 🍜 [RamenGPT](https://github.com/JeanKaddour/ramengpt) - Training GPT with a single GPU
 - 🤖 [Agentic Uncertainty](https://github.com/sevn-ai/agentic-uncertainty) - Measuring SWE agent uncertainty
+- 🏋️ [ReasoningGym](https://github.com/open-thought/reasoning-gym) - 100+ RL environments for LLM RLVR
 - 📚 [Sagaland](https://apps.apple.com/us/app/sagaland-interactive-fiction/id6748543926) - AI Interactive Fiction
 - 🔬 [PySpur](https://github.com/PySpur-Dev/PySpur) - A visual playground for agentic workflows
 - 🏋️‍♂️ [No Train No Gain](https://github.com/JeanKaddour/NoTrainNoGain) - Training BERT and T5 models
