@@ -2,7 +2,7 @@
 📍 London
 
 # Projects
-
+- ⏱️ [Sokoban Speedrun](https://github.com/JeanKaddour/sokoban_speedrun) - Teach Qwen3 Sokoban. The fastest recipe wins.
 - 🎯 [Target Policy Optimization](https://github.com/JeanKaddour/tpo) - Turn GRPO into supervised learning
 - 🍜 [RamenGPT](https://github.com/JeanKaddour/ramengpt) - Training GPT with a single GPU
 - 🤖 [Agentic Uncertainty](https://github.com/sevn-ai/agentic-uncertainty) - Measuring SWE agent uncertainty
