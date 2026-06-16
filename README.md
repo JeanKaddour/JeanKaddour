@@ -2,8 +2,8 @@
 📍 London
 
 # Projects
-- ⏱️ [Sokoban Speedrun](https://github.com/JeanKaddour/sokoban_speedrun) - Teach Qwen3 Sokoban. The fastest recipe wins.
-- 🎯 [Target Policy Optimization](https://github.com/JeanKaddour/tpo) - Turn GRPO into supervised learning
+- ⏱️ [Sokoban Speedrun](https://github.com/JeanKaddour/sokoban_speedrun) - The fastest recipe to teach Qwen3 Sokoban wins.
+- 🎯 [Target Policy Optimization](https://github.com/JeanKaddour/tpo) - Turn GRPO into distribution matching
 - 🍜 [RamenGPT](https://github.com/JeanKaddour/ramengpt) - Training GPT with a single GPU
 - 🤖 [Agentic Uncertainty](https://github.com/sevn-ai/agentic-uncertainty) - Measuring SWE agent uncertainty
 - 🏋️ [ReasoningGym](https://github.com/open-thought/reasoning-gym) - 100+ RL environments for LLM RLVR
@@ -12,6 +12,7 @@
 - 🧠 [SIN](https://github.com/JeanKaddour/SIN) - Causal inference with embedded treatments
 - ⚖️ [LAWA](https://github.com/JeanKaddour/LAWA) - LAtest Weight Averaging
 - 🪒 [WASAM](https://github.com/JeanKaddour/WASAM) - Weight-Averaged Sharpness-Aware Minimization
+- 💫 [PAML](https://github.com/JeanKaddour/PAML) - Probabilistic Active Meta Learning
 
 
 
